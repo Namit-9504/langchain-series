@@ -4,6 +4,18 @@
 
 Welcome to the Lang-Chain Series Repository! This repository serves as a collection of knowledge and practice materials related to language models.
 
+## API Creation
+
+In this repository, we have developed APIs on top of two different Large Language Model (LLM) modules for specific tasks.
+
+1. **Gemma Model for Essay API:**
+   - This API utilizes the Gemma LLM module to generate essays based on input prompts.
+   - Users can input prompts or topics, and the API generates corresponding essay content.
+
+2. **LLMMA2 Model for Poem API:**
+   - The LLMMA2 LLM module powers this API, which generates poems based on user input.
+   - Users can provide prompts or themes, and the API produces poetic compositions.
+
 ## Chatbot Folder
 
 ### Ollama Usage
