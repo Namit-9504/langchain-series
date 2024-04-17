@@ -12,3 +12,7 @@ pypdf
 ipykernel
 chromadb
 faiss-cpu
+arxiv
+wikipedia
+langchainhub
+langchain_google_vertexai
