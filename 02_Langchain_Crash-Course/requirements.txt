@@ -16,3 +16,4 @@ arxiv
 wikipedia
 langchainhub
 langchain_google_vertexai
+langchain_groq
